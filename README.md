@@ -5,7 +5,9 @@ Analysis of sales from vending machines. Designed to analyse purchasing patterns
 
 # Data structure overview
 
-The dataset provides detailed information on vending machine coffee sales from March 2024 to the present. It includes daily transactions recorded in a table with 7 columns and 3636 rows.
+The dataset provides detailed information on vending machine coffee sales from March 2024 to the present. It includes daily transactions recorded in a table with 6 columns and 3636 rows.
+
+![alt text](df_info.PNG)
 
 # Executive summary 
 

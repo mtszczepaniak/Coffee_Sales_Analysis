@@ -42,6 +42,7 @@ The increase in year-end sales is noticeable with dairy drinks, which are more i
 - Number of cards with 2-5 purchases: 451
 - Number of cards with more than 5 purchases: 94
 
+
 ![alt text](<Customer loyalty.png>)
 
 # Recomendations

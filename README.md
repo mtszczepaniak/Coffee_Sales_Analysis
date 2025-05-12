@@ -9,6 +9,8 @@ The dataset provides detailed information on vending machine coffee sales from M
 
 ![alt text](df_info.PNG)
 
+For more details: [link](1.Coffee_Sales_Analysis_EDA.ipynb)
+
 # Executive summary 
 
 This report presents an analysis of coffee sales from vending machines between March 2024 and early 2025. 
@@ -42,8 +44,9 @@ The increase in year-end sales is noticeable with dairy drinks, which are more i
 - Number of cards with 2-5 purchases: 451
 - Number of cards with more than 5 purchases: 94
 
-
 ![alt text](<Customer loyalty.png>)
+
+For more details: [link](2.Coffe_Sales_Trends.ipynb)
 
 # Recomendations
 
